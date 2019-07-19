@@ -1,1 +1,1 @@
-This is Walter's first git project!
+This is Walter's first git project! 
